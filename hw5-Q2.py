@@ -25,7 +25,7 @@ X = df[
 scaledX = scale.fit_transform(X)
 print(scaledX)
 
-# attempt at SVM using the iris database since figuring it out with the other one was kind of confusing
+# attempt at SVM using the iris dataset since figuring it out with the other one was kind of confusing
 print("part 2 - SVM-------------------")
 print("with iris dataset since could not figure out the other")
 # loading dataset in and identifying the targets
